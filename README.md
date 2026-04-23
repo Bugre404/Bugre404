@@ -1,4 +1,5 @@
-## Hi there 👋
+![dev](./assets/animacao.gif)
+
 # 👩🏻‍💻 Julio César🖥️ 
 
 **`Computer Engenieer`**
