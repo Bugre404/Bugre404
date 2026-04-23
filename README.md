@@ -1,4 +1,4 @@
-![Descrição do GIF](./assets/animacao.gif)
+![Descrição do GIF](./assets/jcgif.gif)
 
 
 # 👩🏻‍💻 Julio César🖥️ 
