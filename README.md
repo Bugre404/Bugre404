@@ -1,4 +1,5 @@
-![dev]([./assets/animacao.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndtdml5NGRhcHBscm1qN2gxZG44NW1qc244NXQ1Zm56aXg5OTlwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6heBQSjt2IoA8/giphy.gif))
+![Descrição do GIF](./assets/animacao.gif)
+
 
 # 👩🏻‍💻 Julio César🖥️ 
 
