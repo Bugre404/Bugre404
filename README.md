@@ -115,20 +115,6 @@ Se preferir acesse meu "[portifólio](https://bugre404.github.io/landing_page_cv
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bugre404&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
 
 
 
